@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "categoryId": 1,
+    "nameAz": "Marqarita",
+    "nameRu": "Маргарита",
+    "nameEn": "Margherita",
+    "descriptionAz": "Mozzarella, pomidor sousu",
+    "descriptionRu": "Моцарелла, томатный соус",
+    "descriptionEn": "Mozzarella, tomato sauce",
+    "price": 12.99,
+    "imageUrl": "",
+    "active": true,
+    "available": true,
+    "sortOrder": 1
+  },
+  {
+    "id": 2,
+    "categoryId": 2,
+    "nameAz": "Çizburger",
+    "nameRu": "Чизбургер",
+    "nameEn": "Cheeseburger",
+    "descriptionAz": "Mal əti, pendir və sous",
+    "descriptionRu": "Говядина, сыр и соус",
+    "descriptionEn": "Beef, cheese and sauce",
+    "price": 9.50,
+    "imageUrl": "",
+    "active": true,
+    "available": true,
+    "sortOrder": 1
+  },
+  {
+    "id": 3,
+    "categoryId": 3,
+    "nameAz": "Cola",
+    "nameRu": "Кола",
+    "nameEn": "Cola",
+    "descriptionAz": "Soyuq içki",
+    "descriptionRu": "Холодный напиток",
+    "descriptionEn": "Cold drink",
+    "price": 2.50,
+    "imageUrl": "",
+    "active": true,
+    "available": true,
+    "sortOrder": 1
+  }
+]
