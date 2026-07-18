@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza",
+    "nameAz": "Pizza",
+    "nameRu": "Пицца",
+    "nameEn": "Pizza",
+    "sortOrder": 1,
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Burgers",
+    "nameAz": "Burgerlər",
+    "nameRu": "Бургеры",
+    "nameEn": "Burgers",
+    "sortOrder": 2,
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "Drinks",
+    "nameAz": "İçkilər",
+    "nameRu": "Напитки",
+    "nameEn": "Drinks",
+    "sortOrder": 3,
+    "active": true
+  },
+  {
+    "id": 4,
+    "name": "Desserts",
+    "nameAz": "Desertlər",
+    "nameRu": "Десерты",
+    "nameEn": "Desserts",
+    "sortOrder": 4,
+    "active": true
+  }
+]
