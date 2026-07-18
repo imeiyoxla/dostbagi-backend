@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "titleAz": "Xüsusi təklif",
+    "titleRu": "Специальное предложение",
+    "titleEn": "Special offer",
+    "imageUrl": "",
+    "productId": 1,
+    "active": true,
+    "sortOrder": 1
+  },
+  {
+    "id": 2,
+    "titleAz": "Yeni məhsullar",
+    "titleRu": "Новые продукты",
+    "titleEn": "New products",
+    "imageUrl": "",
+    "productId": null,
+    "active": true,
+    "sortOrder": 2
+  }
+]
